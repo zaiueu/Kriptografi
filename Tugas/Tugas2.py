@@ -1,5 +1,3 @@
-import random
-
 def substitusi(teks, kunci):
     hasil = ""
     
